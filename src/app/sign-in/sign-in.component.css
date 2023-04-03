@@ -1,0 +1,20 @@
+
+
+.divContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+}
+
+.formContainer{
+    min-width: 30%;
+}
+
+.buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+  
